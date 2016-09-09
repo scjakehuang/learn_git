@@ -3,3 +3,4 @@ CM_BUSI.process_result
 SUBSCRIBER_TYPESUBSCRIBER_TYPEUM_SUBSCRIBER hh
 
  test2 gpl
+ happy student
