@@ -4,3 +4,5 @@ SUBSCRIBER_TYPESUBSCRIBER_TYPEUM_SUBSCRIBER hh
 
  test2 gpl
  happy student
+ stupid boss
+ network
