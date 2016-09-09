@@ -6,3 +6,4 @@ SUBSCRIBER_TYPESUBSCRIBER_TYPEUM_SUBSCRIBER hh
  happy student
  stupid boss
  network
+ network22
