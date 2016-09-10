@@ -12,3 +12,4 @@ SUBSCRIBER_TYPESUBSCRIBER_TYPEUM_SUBSCRIBER hh
  finish 101 bug
  finish 102 bug
  finish 103 bug not by nichonus
+ finish 104 bug not jake
