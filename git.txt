@@ -11,4 +11,4 @@ SUBSCRIBER_TYPESUBSCRIBER_TYPEUM_SUBSCRIBER hh
  creat branc is quick and simple.
  finish 101 bug
  finish 102 bug
- finish 103 bug by nichonus
+ finish 103 bug not by nichonus
